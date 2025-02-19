@@ -11,4 +11,4 @@ Now, your linux system probably has way more things than that, but if we can get
 
 # Articles for the main (minimal) setup.
 
-[a Building the kernel](kernel/KERNEL.md)
+[Building the kernel](kernel/KERNEL.md)
