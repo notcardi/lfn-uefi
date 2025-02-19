@@ -41,4 +41,4 @@ If you see a bunch of logs and what looks like a kernel panic, you have done eve
 
 
 Now that you've compiled the kernel, you'll probably want some basic utilities like a shell, and any other core utilities that you would use on a daily basis. For that, see:\
-[Core Utilities](coreutils/COREUTILS.md)
+[Core Utilities](../coreutils/COREUTILS.md)
